@@ -41,7 +41,7 @@ After installing the Google extension in your browser, go to enable it on your f
 
 * **Loading candles** - **TradeGPT** in action
 
-<!-- <video src="./assets/4.mp4"> -->
+https://github.com/TradeGptExtencion/TradeGptExtencion/assets/170668362/737ed1b6-58db-40e9-bbb0-a1ee13ec5a95
 
 <br/>
 
