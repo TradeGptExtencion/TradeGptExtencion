@@ -55,6 +55,7 @@ https://github.com/TradeGptExtencion/TradeGptExtencion/assets/170668362/737ed1b6
 Acontece quando a IA consegue notar um insight pré-cauculado, cujo o valor das operações tende a ser otimista, ou seja, ao crescimento das ações, recomendamos comprar ativos quando obtiver este insight.
 
 <br/>
+<br/>
 
 * **Pontuações** - **Indicadores pessimistas** para Traders
 
