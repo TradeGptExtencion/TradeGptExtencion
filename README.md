@@ -1,4 +1,4 @@
-# Docs to the TradeGPT
+# Docs para o TradeGPT
 
 <img src="./assets/TradeGPT.png" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="auto" height="178">
