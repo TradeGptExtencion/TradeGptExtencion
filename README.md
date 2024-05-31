@@ -43,7 +43,7 @@ Após instalar a extenção do Google em seu navegador dirija-se habilite-a em s
 
 * **Carregando velas** - **TradeGPT** em ação
 
-https://github.com/TradeGptExtencion/TradeGptExtencion/assets/170668362/33f11e67-b4ea-47e2-b3e0-20f03ff3992e
+https://github.com/TradeGptExtencion/TradeGptExtencion/assets/170668362/737ed1b6-58db-40e9-bbb0-a1ee13ec5a95
 
 <br/>
 
